@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cauatorres
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on js projects
 - 📫 How to reach me caua.gusmao.torres@gmail.com
 
