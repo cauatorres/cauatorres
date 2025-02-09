@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cauatorres
-- 👀 I’m interested in web design
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on js projects
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me caua.gusmao.torres@gmail.com
 
 <!---
