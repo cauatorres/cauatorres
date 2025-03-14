@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cauatorres
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and studying Computer Science
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me caua.gusmao.torres@gmail.com
 
